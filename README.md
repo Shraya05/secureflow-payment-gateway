@@ -62,3 +62,20 @@ SecureFlow is a robust and secure payment gateway system built with **Spring Boo
   "cancelUrl": "http://localhost:8080/api/payment/cancel",
   "successUrl": "http://localhost:8080/api/payment/success"
 }
+
+**##🧪 Testing**
+Use Postman to test endpoints with the JWT in the Authorization tab:
+
+Type: Bearer Token
+Token: <your-jwt-token>
+
+Contact
+Made with ❤️ by Shraya
+
+📧 Email: shraya978@example.com
+
+🔗 LinkedIn: https://linkedin.com/in/shraya555
+
+💻 GitHub: https://github.com/Shraya05
+
+
